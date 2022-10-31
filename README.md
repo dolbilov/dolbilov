@@ -30,7 +30,7 @@
 [![codewars](https://www.codewars.com/users/RIVEL/badges/large)](https://www.codewars.com/users/RIVEl)
 
 <br>
-<h2>Contact with me</h2>
+<h2>Contact me</h2>
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kdolbilov)
 <a href="mailto:dolbilov.kirill@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
