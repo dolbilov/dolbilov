@@ -3,7 +3,7 @@
 ## 👨‍💻 About me
 
 👶 I'm a junior frontend developer.  
-🎓 4th year student of 4. My major is programming engineering.  
+🎓 4th year student out of 4. My major is programming engineering.  
 ⚡ In my free time I solve problems on Codewars and Github, read tech articles and learn something new!
 
 ---
