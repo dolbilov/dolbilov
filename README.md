@@ -31,3 +31,11 @@
 [![My GitHub stat](https://github-readme-stats.vercel.app/api?username=dolbilov)](https://github.com/dolbilov/github-readme-stats)
 
 [![My Codewars stat](https://www.codewars.com/users/RIVEL/badges/large)](https://www.codewars.com/users/RIVEl)
+
+---
+
+## 📲 Contact me
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kdolbilov)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirill-dolbilov-61a6491b1/)
+<a href="mailto:dolbilov.kirill@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
