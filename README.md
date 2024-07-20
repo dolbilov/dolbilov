@@ -2,35 +2,37 @@
 
 ## 👨‍💻 About me
 
-👶 I'm a junior .NET developer.  
-💯 Graduated with honors from the National Research University of Electronic Technology (MIET) with a bachelor degree in software engineering with an GPA of 4.94.  
-🎓 1th year master's student at NRU MIET. My major is software engineering.  
-⚡ In my free time I solve problems on Codewars and LeetCode, read tech articles and learn something new!
+👶 I'm a junior ML engineer.  
+💯 Graduated with honors from the National Research University of Electronic Technology (MIET) with a bachelor degree in software engineering with an GPA of 4.94.   
+🎓 1th year master's student at NRU MIET. My major is software engineering (temp GPA is 5.00).  
+⚡ In my free time I solve problems on Codewars/LeetCode, take part on Kaggle competitions, read tech articles and learn something new!
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/kirilldolbilov)
 
 ---
 
 ## 🛠 Languages & Tools
 
-![.NET](https://img.shields.io/badge/.NET-%23512BD4?style=for-the-badge)
-![C#](https://img.shields.io/badge/-C%23-%23239120?style=for-the-badge)
-![AvaloniaUI](https://img.shields.io/badge/-Avalonia%20ui-%238b44ac?style=for-the-badge)
-![XAML](https://img.shields.io/badge/-xaml-%230C54C2?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
 
-![Rider](https://img.shields.io/badge/-Rider-%23000000?style=for-the-badge)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-%235C2D91?style=for-the-badge)
-![VS Code](https://img.shields.io/badge/-Vs%20Code-%23007ACC?style=for-the-badge)
+![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-![SQLite](https://img.shields.io/badge/-sqlite-%23003B57?style=for-the-badge)
-![xUnit](https://img.shields.io/badge/-xunit-%23000000?style=for-the-badge)
+![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge)
 
 ---
 
-## 🔥 Stats
-
-[![My GitHub stat](https://github-readme-stats.vercel.app/api?username=dolbilov)](https://github.com/dolbilov/github-readme-stats)
-
-[![My Codewars stat](https://www.codewars.com/users/RIVEL/badges/large)](https://www.codewars.com/users/RIVEl)
+## 🛠️ IDE
+![Jupiter Notebooks](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ---
 
