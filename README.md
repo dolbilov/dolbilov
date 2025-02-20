@@ -4,7 +4,7 @@
 
 👶 I'm a junior ML engineer.  
 💯 Graduated with honors from the National Research University of Electronic Technology (MIET) with a bachelor degree in software engineering with an GPA of 4.94.   
-🎓 1th year master's student at NRU MIET. My major is software engineering (temp GPA is 5.00).  
+🎓 2th year master's student at NRU MIET. My major is software engineering (temp GPA is 5.00).  
 ⚡ In my free time I solve problems on Codewars/LeetCode, take part on Kaggle competitions, read tech articles and learn something new!
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/kirilldolbilov)
